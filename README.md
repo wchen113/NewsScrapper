@@ -1,7 +1,7 @@
 ## Prerequisites
 
 1. Visual Studio
-   Use Visual Studio to run the code
+   Use Visual Studio 2022 to run the code
 
 2. Update Dependencies
   Make sure all the dependencies are up to date
